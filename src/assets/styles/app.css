@@ -1,0 +1,13 @@
+@import url(//fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+body{
+font-family: 'Noto Naskh Arabic', serif;
+
+
+
+}
+.text-ltr {
+    direction: ltr;
+  }
+ .right-label {
+    text-align: right;
+  }
